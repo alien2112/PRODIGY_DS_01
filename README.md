@@ -1,2 +1,2 @@
 # PRODIGY_DS_01
-Internship first task
+Internship first task for Prodigy infotech
